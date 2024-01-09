@@ -1,2 +1,3 @@
-import InputBox  from "./InputBOx";
+
+import {InputBox} from "./InputBOx"
 export {InputBox}
